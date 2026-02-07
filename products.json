@@ -1,0 +1,57 @@
+[
+  {
+    "id": "b1a7f3c2-8d4e-4a6b-9f2c-1e2a3b4c5d6e",
+    "name": "Nintendo Switch OLED",
+    "description": "7-inch OLED screen, neon and white colors",
+    "price": 429000,
+    "image_url": "/public/images/nintendo-switch.png",
+    "category": "consoles",
+    "created_at": null
+  },
+  {
+    "id": "c2d8e4f5-9a6b-4c3d-8e1f-2b3a4c5d6e7f",
+    "name": "PS5 Controller",
+    "description": "DualSense wireless controller",
+    "price": 298000,
+    "image_url": "/public/images/ps5.png",
+    "category": "accessories",
+    "created_at": null
+  },
+  {
+    "id": "d3e9f5a6-1b7c-4d8e-9f2a-3b4c5d6e7f80",
+    "name": "Handheld PC",
+    "description": "Powerful handheld gaming PC",
+    "price": 599000,
+    "image_url": "/public/images/umpc.png",
+    "category": "pcs",
+    "created_at": null
+  },
+  {
+    "id": "e4f0a6b7-2c8d-4e9f-0a1b-4c5d6e7f8091",
+    "name": "PlayStation 5",
+    "description": "열심히 일한 당신, 이 정도 누릴 자격 있습니다. 퇴근 후 패드를 쥐는 순간, 스트레스는 사라지고 가슴 뛰는 모험이 시작됩니다.",
+    "price": 499.99,
+    "image_url": "/images/ps5.png",
+    "category": "console",
+    "created_at": null
+  },
+  {
+    "id": "f5a1b7c8-3d9e-4f0a-1b2c-5d6e7f8091a2",
+    "name": "UMPC Gaming Handheld",
+    "description": "하루 종일 의자에 앉아 일한 당신, 이제 게임은 누워서 하세요. 침대 위가 곧 PC방이 되는, 게이머를 위한 최고의 휴식을 선물합니다.",
+    "price": 699.99,
+    "image_url": "/images/umpc.png",
+    "category": "handheld",
+    "created_at": null
+  },
+  {
+    "id": "a6b2c8d9-4e0f-5a1b-2c3d-6e7f8091a2b3",
+    "name": "Nintendo Switch OLED (KR)",
+    "description": "스마트폰만 보는 아이에게, 아빠와 함께하는 즐거운 추억을 선물하세요. 우리 집 거실이 웃음 터지는 파티룸이 됩니다.",
+    "price": 299.99,
+    "image_url": "/images/nintendo-switch.png",
+    "category": "console",
+    "created_at": null
+  }
+]
+

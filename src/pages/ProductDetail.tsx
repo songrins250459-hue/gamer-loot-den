@@ -210,16 +210,16 @@ const ProductDetail = () => {
 
             {/* Actions */}
             <div className="flex flex-col gap-3 sm:flex-row">
-              <Button
-                variant="default"
-                size="xl"
+            <Button
+              variant="default"
+              size="xl"
                 className="w-full sm:flex-1"
-                onClick={handleAddToCart}
-                disabled={addToCart.isPending}
-              >
-                <ShoppingCart className="mr-2 h-5 w-5" />
-                {addToCart.isPending ? "추가 중..." : "장바구니 담기"}
-              </Button>
+              onClick={handleAddToCart}
+              disabled={addToCart.isPending}
+            >
+              <ShoppingCart className="mr-2 h-5 w-5" />
+              {addToCart.isPending ? "추가 중..." : "장바구니 담기"}
+            </Button>
               <Button
                 variant="secondary"
                 size="xl"

@@ -106,11 +106,11 @@ export function CartDrawer({ open, onOpenChange }: CartDrawerProps) {
 
       const message =
         paymentError instanceof Error ? paymentError.message : "결제가 취소되었습니다.";
-      toast({
+    toast({
         title: "결제를 진행하지 못했습니다",
         description: message,
         variant: "destructive",
-      });
+    });
       setProcessing(false);
       return;
     }
